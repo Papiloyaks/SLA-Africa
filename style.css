@@ -1,0 +1,58 @@
+#img{
+    position: absolute;
+    left: 5%;
+    top: 5%;
+
+}
+#nav {
+    margin-left: 30%;
+}
+.join{
+    border: 1px;
+    width: 150%;
+    height: 50px;
+    background-color: rgb(31,150,223);
+    color: white;
+    font-size: 17px;
+    position: relative;
+    left: 10%;
+    top: -20px;
+    border-radius: 10px;
+    
+}
+.span{
+    color: red;
+}
+#span2{
+    color: white;
+    position: relative;
+    top: -500px;
+    margin-left: 5%;
+    font-size: 45px;
+
+    
+}
+#link2{
+    margin-left: -20px;
+    color: black;
+    font-weight: 700;
+
+}
+#link2:hover{
+    color: rgb(31,150,223);
+}
+#link1{
+    color: black;
+    font-weight: 700;
+}
+#link1:hover{
+    color: rgb(31,150,223);;
+}
+#card{
+    width: 40%;
+}
+#h1{
+    color: rgb(31,150,223);
+    margin-top: 40px;
+    font-weight: 700;
+}
